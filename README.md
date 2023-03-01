@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Monteiro!✌
 
-- 🔭 Hoje trabalho como Militar e busco entrar no mundo da programação
-- 🌱 Estudando HTML, CSS e JavaScript
-- 😄 Pronouns: ele
+- 🔭 Hoje estudo e busco vagas para minha primeira oportunidade na área.
+- 🌱 Estudando HTML, Bootstrap, CSS e JavaScript
+- 😄 Pronouns: Ele/Dele
 
 <div>
   <a href="https://beacons.ai/MonteiroGitHub">
