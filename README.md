@@ -2,6 +2,8 @@
 
 - 🔭 Hoje estudo e busco vagas para minha primeira oportunidade na área.
 - 🌱 Estudando HTML, Bootstrap, CSS, JavaScript e Python.
+- 🌱 Cursando: Arquitetura de Dados na faculdade Ampli
+- 🌱 Cursando: Analista de Dados na GrowDev
 - 😄 Pronouns: Ele/Dele
 
 <div>
@@ -30,4 +32,4 @@
     <a href="https://www.linkedin.com/in/joaomonteiro00/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
-  ![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+  
