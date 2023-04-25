@@ -1,9 +1,9 @@
 ## Olá! Eu sou o Monteiro!✌
 
-- 🔭 Hoje estudo e busco vagas para minha primeira oportunidade na área.
-- 🌱 Estudando HTML, Bootstrap, CSS, JavaScript e Python.
-- 🌱 Cursando: Arquitetura de Dados na faculdade Ampli
-- 🌱 Cursando: Analista de Dados na GrowDev
+- 🔭 Hoje estudo e busco vagas para minha primeira oportunidade na área;
+- 🌱 Cursando: Arquitetura de Dados na faculdade Ampli - C#;
+- 🌱 Cursando: Analista de Dados na GrowDev - Python;
+- 🌱 Estudando HTML, Bootstrap, CSS, JavaScript e .NET;
 - 😄 Pronouns: Ele/Dele
 
 <div>
@@ -18,8 +18,9 @@
  
   <img align="center" alt="Monteiro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Monteiro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Monteiro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Monteiro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ 
   
 </div>
   
