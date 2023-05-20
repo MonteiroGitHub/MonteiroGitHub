@@ -3,7 +3,7 @@
 - 🔭 Hoje estudo e busco vagas para minha primeira oportunidade na área;
 - 🌱 Cursando: Arquitetura de Dados na faculdade Ampli - C#;
 - 🌱 Cursando: Analista de Dados na GrowDev - Python;
-- 🌱 Estudando HTML, Bootstrap, CSS, JavaScript e .NET;
+- 🌱 Estudando HTML, Bootstrap, CSS, PHP, Python, JavaScript, AngularJS, TypeScript, React C# e .NET;
 - 😄 Pronouns: Ele/Dele
 
 <div>
